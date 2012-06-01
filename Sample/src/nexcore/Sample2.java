@@ -21,4 +21,9 @@ public class Sample2 {
 	public void op_06(String param){
 		System.out.println("e");
 	}
+	
+	
+	public void op_10(String param){
+		System.out.println("a10");
+	}
 }
