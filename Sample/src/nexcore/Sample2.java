@@ -17,4 +17,8 @@ public class Sample2 {
 	public void op_05(String param){
 		System.out.println("d");
 	}
+	
+	public void op_06(String param){
+		System.out.println("e");
+	}
 }
