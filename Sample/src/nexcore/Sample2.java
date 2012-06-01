@@ -7,6 +7,14 @@ public class Sample2 {
 	}
 	
 	public void op_03(String param){
-		System.out.println("a");
+		System.out.println("b");
+	}
+	
+	public void op_04(String param){
+		System.out.println("c");
+	}
+	
+	public void op_05(String param){
+		System.out.println("d");
 	}
 }
